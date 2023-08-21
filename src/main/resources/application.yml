@@ -9,4 +9,4 @@ app-config:
     ip: 127.0.0.1
     prot: 7980
   swaggerBaseUrl:
-    - http://chatgpt-proxy.qianxunclub.com:8080
+    - 这里填写部署到服务器的swagger地址
