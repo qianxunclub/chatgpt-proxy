@@ -2,8 +2,6 @@ app-config:
   apiHost: https://api.openai.com/
   openaiKey:
   timeout: 300
-  tokens:
-    - qianxunclub
   proxy:
     enable: false
     # HTTP/SOCKS/DIRECT
